@@ -277,8 +277,6 @@
     &__checkbox:checked ~ &__button &__icon::before{
         top:0;
         transform:translateX(-50%) rotate(135deg) ;
-        
-        
     }
     &__checkbox:checked ~ &__button &__icon::after{
         top:0;
